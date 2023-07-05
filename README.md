@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/shaswat pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswat pant" height="30" width="40" /></a>
 <a href="https://fb.com/shaswat pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaswat pant" height="30" width="40" /></a>
 <a href="https://instagram.com/how.you_d.o.i.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="how.you_d.o.i.n" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01f9284d56f269e6ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Shaswat P." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

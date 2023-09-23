@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantshaswat&label=Profile%20views&color=0e75b6&style=flat" alt="pantshaswat" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React JS**
+- 🌱 I’m currently learning **Flutter, Web dev, Machine Learning**
 
 - 📫 How to reach me **pantshaswat@gmail.com**
 
